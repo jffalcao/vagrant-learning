@@ -1,1 +1,1 @@
-# ws-vagrant-learning
+# vagrant-learning
